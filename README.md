@@ -21,6 +21,5 @@ Student developer learning iOS design and app building.
 - Canva
 
 ## Projects
-- Project 1
-- Project 2
-- Project 3
+- Study Buddy
+- Syllabus app (Custom pomodoro app)
