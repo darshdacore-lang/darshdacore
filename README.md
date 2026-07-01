@@ -1,25 +1,65 @@
-# darshdacore
-# Hey, I'm Darsh 👋
+# 👋 Hey, I'm Darsh
 
-Student developer learning iOS design and app building.
+Student developer from Singapore 🇸🇬
 
-## Currently Learning
+I'm passionate about building clean, modern applications and learning software engineering. Currently exploring iOS development, web development, and UI/UX design.
+
+---
+
+## 🚀 Currently Learning
+
 - Swift
 - Xcode
-- GitHub workflows
-- UI/UX design
+- Git & GitHub
+- UI/UX Design
 
-## Current Goals
-- Build my first iOS app
-- Improve coding consistency
-- Learn clean app design
+---
 
-## Tools I Use
-- MacBook Air
+## 🎯 Current Goals
+
+- 📱 Build my first iOS app
+- 🎨 Learn Apple-style UI design
+- 🔥 Stay consistent with coding
+- 💻 Grow my developer portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+Languages
+- HTML
+- CSS
+- JavaScript
+- Swift (Learning)
+
+Tools
+- MacBook Air M4
 - VS Code
+- Xcode
+- Git
 - GitHub
 - Canva
 
-## Projects
-- Study Buddy
-- Syllabus app (Custom pomodoro app)
+---
+
+## 📂 Featured Projects
+
+### 📚 Study Buddy
+A productivity app for students.
+
+### ⏱️ Syllabus
+A custom Pomodoro timer designed around school schedules.
+
+*(More projects coming soon.)*
+
+---
+
+## 📈 GitHub Stats
+
+Working on new projects every week.
+
+---
+
+## 📫 Connect
+
+GitHub: github.com/darshdacore
